@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/dashboard_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_timetable"
+        android:icon="@drawable/timetable_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_lib"
+        android:icon="@drawable/lib_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/notifications_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/chat_icon"
+        android:title="" />
+
+</menu>
